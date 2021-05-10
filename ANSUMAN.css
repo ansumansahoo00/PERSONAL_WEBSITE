@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  font-weight: bold;
+}
+
+.TOP {
+  background-color: #1cc5dc;
+  color: #c0fefc;
+  text-align: center;
+  height: 1250px;
+}
+
+.cloud-0 {
+  position: relative;
+  right: 10%;
+  margin: 3rem 0;
+  height: 50px;
+}
+
+.cloud-00 {
+  position: relative;
+  top: -90px;
+}
+
+.cloud-1 {
+  position: relative;
+  left: 30%;
+  margin: 3rem 0;
+  height: 300px;
+}
+
+.cloud-2 {
+  position: relative;
+  right: 35%;
+  margin: 3rem 0;
+  height: 180px;
+}
+
+.programer {
+  height: 450px;
+  position: absolute;
+  right: 26%;
+  top: 110%;
+}
+
+.SKILLS {
+  margin: 50px;
+  text-align: center;
+}
+
+.LIMAGE {
+  height: 200px;
+  width: 150px;
+  position: relative;
+  left: 300px;
+}
+
+.RIMAGE {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 900px;
+}
+
+.PARA {
+  position: relative;
+  left: 35%;
+  bottom: 100px;
+  margin: 0;
+  display: inline-block;
+  height: auto;
+  width: auto;
+}
+
+.JAVA {
+  margin: 80px;
+}
+
+.ML {
+  margin: 50px;
+}
+
+.FULLSTACK {
+  margin: 50px;
+}
+
+.PYTHON {
+  margin: 50px;
+}
+
+.footer {
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: #c0fefc;
+  height: auto;
+  width: auto;
+}
